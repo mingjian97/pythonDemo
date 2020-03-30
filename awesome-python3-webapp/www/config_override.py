@@ -1,0 +1,7 @@
+
+
+configs={
+    'db':{
+        'user':'root'
+    }
+}
